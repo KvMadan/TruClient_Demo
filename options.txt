@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\madanka\Documents\Work\PoC\CI\TruClient_Demo
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\madanka\documents\work\poc\ci\truclient_demo\logfile.log
+c:\users\madanka\documents\work\poc\ci\truclient_demo\combined_TruClient_Demo.c
+c:\users\madanka\documents\work\poc\ci\truclient_demo\pre_cci.c
